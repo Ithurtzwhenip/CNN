@@ -49,7 +49,7 @@ After training, the model can make predictions on new images. The provided scrip
 Clone the repository and run the provided Python script. Ensure you have the required dependencies installed.
 
 ```bash
-python predict_cat_or_dog.py
+python cnn.py
 ```
 
 ---
