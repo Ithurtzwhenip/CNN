@@ -1,6 +1,3 @@
-Certainly! Here's a simple and easy-to-understand README file for your CNN model:
-
----
 
 # Convolutional Neural Network (CNN) for Cat vs Dog Classification
 
