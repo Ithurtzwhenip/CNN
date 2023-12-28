@@ -1,4 +1,3 @@
-
 # Convolutional Neural Network (CNN) for Cat vs Dog Classification
 
 This repository contains the code for a Convolutional Neural Network (CNN) designed to classify images as either cats or dogs. The model is implemented using the Keras library with TensorFlow backend.
@@ -53,5 +52,3 @@ python cnn.py
 ```
 
 ---
-
-Feel free to customize the README to provide additional details or instructions specific to your project. Additionally, you can include information about how to install dependencies, set up the environment, or further extend the project.
